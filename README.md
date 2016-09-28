@@ -3,8 +3,12 @@ Project for HackuWeather 2016
 
 
 Contributors:
-Ivan Pan
+
+Ivan Pan 
+
 Joshua John
+
 Keshav Chawla
+
 Ian Renaldo Tija
 
